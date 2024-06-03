@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour 👋, je m'appelle Paolo</h1>
+<h1 align="center">Paolo</h1>
 <h3 align="center">Je suis un développeur multiplateforme Flutter, un passionné d'IA et le fondateur d'EmperorAI.net</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=therealpaolo&label=Profile%20views&color=0e75b6&style=flat" alt="therealpaolo" /> </p>

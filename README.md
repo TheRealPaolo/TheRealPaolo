@@ -14,7 +14,7 @@
 
 - Je publie assez régulièrement des modèles open source sur mon Huggingface [https://huggingface.co /Paolo16](https://huggingface.co/Paolo16)
 
-- 📝 Visitez notre site Web de start-up pour une meilleure expérience utilisateur [https://emperorai.net](https://emperorai.net)
+- 📝 Visitez notre site Web de start-up pour une meilleure expérience utilisateur [https://PyperStrategy.com](https://PyperStrategy.com)
 
 - 💬 Demandez-moi à propos de **flutter,firebase,LLM,Android & Dart**
 

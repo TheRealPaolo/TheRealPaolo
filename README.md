@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **flutter,firebase,LLM,Android & Dart**
 
-- 📫 How to reach me **henrycavill6016@gmail.com**
+- 📫 How to reach me **Paolotshiyole9@gmail.com**
 
 - ⚡ Fun fact **I love manga/Anime, it's a part of my life**
 

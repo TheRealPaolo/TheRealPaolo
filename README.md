@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=therealpaolo&label=Profile%20views&color=0e75b6&style=flat" alt="therealpaolo" /> </p>
 
 
-- 🔭 I’m currently working on LLM projects [Paolo16/LLama-3-8B-uncensored-4bit](https://huggingface.co/Paolo16/LLama-3-8B-uncensored-4bit)
+- 🔭 I have fine-tuned LLM projects [Paolo16/LLama-3-8B-uncensored-4bit](https://huggingface.co/Paolo16/LLama-3-8B-uncensored-4bit) A Llama model trained on the bar association's structured data.
 
 - 🌱 I’m currently learning **Pytorch, ML & Cloud**
 
@@ -13,8 +13,6 @@
 - 🤝 I'm working to help the open source community with a code generation model [Paolo16/Emperor-time-code-small](https://huggingface.co/Paolo16/Emperor-time-code-small)
 
 - I regularly publish open source models on my Huggingface [https://huggingface.co /Paolo16](https://huggingface.co/Paolo16)
-
-- 📝 Visit our startup's website for a better user experience [https://PyperStrategy.com](https://PyperStrategy.com)
 
 - 💬 Ask me about **flutter,firebase,LLM,Android & Dart**
 

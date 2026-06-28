@@ -13,7 +13,8 @@
 - 🤝 I'm working to help the open source community with a code generation model [Paolo16/Emperor-time-code-small](https://huggingface.co/Paolo16/Emperor-time-code-small)
 
 - I regularly publish open source models on my Huggingface [https://huggingface.co /Paolo16](https://huggingface.co/Paolo16)
-- I have worked on several iOS and Android mobile applications [https://apps.apple.com/fr/iphone/search?term=paolo%20tshiyole)
+  
+- I have worked on several iOS and Android mobile applications https://apps.apple.com/fr/iphone/search?term=paolo%20tshiyole
 
 - 💬 Ask me about **flutter,firebase,LLM,Android & Dart**
 
